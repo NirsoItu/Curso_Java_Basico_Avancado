@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d28f28-6206-410f-a495-913599dae6df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f1KNSRfRVf5eJE33WlfmpZKDEj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CURSOS 2020 - DS\CURSOS_DIO\JAVA_BASICO\orientacao-objeto\src\main\java\caracteristicas\supers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CURSOS 2020 - DS\CURSOS_DIO\JAVA_BASICO\orientacao-objeto\src\main\java\caracteristicas\this" />
+      <recent name="D:\CURSOS 2020 - DS\CURSOS_DIO\JAVA_BASICO\orientacao-objeto\src\main\java\caracteristicas1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProgramaFuncionarios">
+    <configuration name="ProgramaCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construtores.exercicio.ProgramaCarro" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construtores.exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaFuncionarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfismo.exercicio.ProgramaFuncionarios" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polimorfismo.exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaPessoa (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.exemplo01.ProgramaPessoa" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulamento.exemplo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construtores.exemplo01.ProgramaPessoa" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construtores.exemplo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaVeiculo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caracteristicas.comparativosdeobjetos.hashcode.ProgramaVeiculo" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caracteristicas.comparativosdeobjetos.hashcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaVeiculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caracteristicas.comparativosdeobjetos.equals.ProgramaVeiculo" />
+      <module name="aula1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caracteristicas.comparativosdeobjetos.equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProgramaFuncionarios" />
+        <item itemvalue="Application.ProgramaPessoa (1)" />
+        <item itemvalue="Application.ProgramaCarro" />
+        <item itemvalue="Application.ProgramaPessoa" />
+        <item itemvalue="Application.ProgramaVeiculo (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d28f28-6206-410f-a495-913599dae6df" name="Default Changelist" comment="" />
+      <created>1595380118975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595380118975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1595380187431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595380187431" />
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595463085352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595463085352" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1595466386341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595466386341" />
+    <state x="257" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595466263962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="257" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595466263962" />
+    <state x="419" y="94" key="FileChooserDialogImpl" timestamp="1595530798079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595530798079" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1602008729771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602008729771" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1602008729771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602008729771" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1602008729770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602008729770" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1602008729771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602008729771" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1595466944721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595466944721" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1595466944721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595466944721" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1595466944721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595466944721" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1595466944721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595466944721" />
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595464781282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1595464781282" />
+    <state x="22" y="0" key="new project wizard" timestamp="1595530805276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1595530805276" />
+  </component>
+</project>

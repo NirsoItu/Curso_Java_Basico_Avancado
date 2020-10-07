@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b0fd06-7d9a-4716-8b37-a80b823ee503" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fBb0dAxJeL42i3W1k8Pvjm1oDY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../set/src/main/java/treeset/TreeS.java" />
+  </component>
+  <component name="RunManager" selected="Application.Exercicio">
+    <configuration name="Exemplo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treemaps.Exemplo01" />
+      <module name="map.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treemaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmaps.Exemplo01" />
+      <module name="map.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio" />
+      <module name="map.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashtables.HashTables" />
+      <module name="map.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashtables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio" />
+        <item itemvalue="Application.HashTables" />
+        <item itemvalue="Application.Exemplo01 (1)" />
+        <item itemvalue="Application.Exemplo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b0fd06-7d9a-4716-8b37-a80b823ee503" name="Default Changelist" comment="" />
+      <created>1595694210046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595694210046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595700794790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595700794790" />
+    <state width="1322" height="190" key="GridCell.Tab.0.bottom" timestamp="1595714737534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595714737534" />
+    <state width="1322" height="190" key="GridCell.Tab.0.center" timestamp="1595714737533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595714737533" />
+    <state width="1322" height="190" key="GridCell.Tab.0.left" timestamp="1595714737533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595714737533" />
+    <state width="1322" height="190" key="GridCell.Tab.0.right" timestamp="1595714737533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595714737533" />
+  </component>
+</project>

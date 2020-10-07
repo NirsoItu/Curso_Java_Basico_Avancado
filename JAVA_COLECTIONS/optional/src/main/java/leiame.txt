@@ -1,0 +1,4 @@
+Optional utilizado para trabalhar com objetos null
+
+- Possui 2 estados (Presente, Vazio);
+- Elimina o erro de NullPointerExceptions.

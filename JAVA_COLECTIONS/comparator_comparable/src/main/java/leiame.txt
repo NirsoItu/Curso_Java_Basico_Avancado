@@ -1,0 +1,5 @@
+Comparator definir uma classe focada para ordenar um tipo de dado complexo de acordo com a regra de negócio
+- Algoritmos de ordenação
+- Permite ordenação de dados complexos
+
+Comparable é para ser implementada dentro de nossa classe de domínio.

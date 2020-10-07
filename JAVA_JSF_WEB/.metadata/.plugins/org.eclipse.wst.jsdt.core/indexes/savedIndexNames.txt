@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\CURSOS 2020 - DS\CURSOS_DIO\CURSO COMPLETO DE JAVA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4289924316.index
+3848392667.index
+2991679275.index
+3443868805.index
+1448340487.index
+3344708911.index
+1070126914.index

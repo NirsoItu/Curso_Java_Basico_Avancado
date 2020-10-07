@@ -1,0 +1,4 @@
+
+Ordem de inserção baseado em fila
+Quem entra primeiro, sai primeiro
+Não é permitido o método de alteração (SET) somente adicionar e excluir

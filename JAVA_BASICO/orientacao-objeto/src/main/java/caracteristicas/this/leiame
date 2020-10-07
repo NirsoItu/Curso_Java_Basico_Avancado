@@ -1,0 +1,22 @@
+
+THIS: usado para referenciar o modelo da própria classe
+Ex:
+public class Carro {
+    private String qtdDePortas;
+    public String getQtdDePortas(){
+        return qtdDePortas;
+    }
+    public void setQtdDePortas(String qtdDePortas){
+        this.qtdDePortas = qtdDePortas;
+    }
+
+}
+
+SUPER: usado para referenciar o modelo da super classe (PAI - Extendida)
+Ex:
+public Carro(String marca, String modelo, Double valorVenal, int qtdDePortas){
+        super(marca, modelo, valorVenal);
+        this.qtdDePortas = qtdDePortas;
+    }
+
+}

@@ -1,0 +1,10 @@
+Alta performance
+Manipular coleções  com paradigma funcional de forma paralela
+Imutável, não altera a origem , sempre cria um nova coleção
+
+- Mapping;
+- Filtering;
+- ForEach;
+- Peek;
+- Couting;
+- Grouping;

@@ -1,0 +1,10 @@
+Java Set
+
+Alta performance;
+Não garante a ordem;
+Não permite itens repetidos;
+Não possui busca por item;
+Não possui atualização;
+Não permite mudança de ordenação (para manter a performance)
+Leitura apenas por navegação;
+Permite adição e exclusão;

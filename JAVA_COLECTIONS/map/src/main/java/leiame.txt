@@ -1,0 +1,7 @@
+Entrada de chave e valor
+
+Permite valores repetidos
+
+Permite CRUD
+
+Permite ordenação
